@@ -3,6 +3,32 @@
 <!--
 **Elias-Zalmai/Elias-Zalmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Høyskolen Kristiania / College Kristiania campus Bergen
+
+#### 1. semester (høsten 2024)
+- [DB1102 Databaser, eksamen 2024](Bestått)
+- [PRO105 Kreativt webprosjekt, eksamen 2024] (Bestått)
+- [PGR102 Intro til programmering, eksamen 2024] (Bestått)
+- [TK1104 Digital teknologi, eksamen 2024] (Bestått)
+
+#### 2. semester (våren 2025)
+- [PGR112 Objektorientert programmering (OOP), eksamen 2025](Bestått)
+- [TK2100 Informasjonssikkerhet, eksamen 2025] (Bestått)
+- [ESB1100 Etikk, samfunnsansvar og bærekraft, eksamen 2025] ((Karakter: B))
+
+#### 3. semester (høsten 2025)
+- [ETH2100 Etisk hacking, eksamen 2025] (Karakter: A)
+- [SKY2100 Skysikkerhet, eksamen 2025] (Karakter: Kommer)
+- [CYB2100 Cyberforsvar, eksamen 2025] (Karakter: C)
+
+
+#### 4. semester (våren 2026)
+- [BU5300 IT-prosjektledelse, eksamen 2026] (Karakter: Pågående)
+- [PG3401 Programmering i C for Linux, eksamen 2026] (Karakter: Pågående)
+- [PG4200 Algorithms and Data Structures, eksamen 2026] (Karakter: Pågående )
+- [PGR107 Python Programming, eksamen 2026] (Karakter: Pågående)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
