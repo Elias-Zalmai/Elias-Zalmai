@@ -1,9 +1,13 @@
-## Hi there 👋
+## Elias Zalmai 
+Heisann ☀️ 
 
-<!--
-**Elias-Zalmai/Elias-Zalmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----------
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/marie-stigen/](https://www.linkedin.com/in/eliaszalmai/))
 
-Høyskolen Kristiania / College Kristiania campus Bergen
+[<img src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Elias-Zalmai)
+
+----- 
+## Høyskolen Kristiania - Cybersikkerhet 
 
 #### 1. semester (høsten 2024)
 - [DB1102 Databaser, eksamen 2024](Bestått)
@@ -28,6 +32,8 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 - [PG4200 Algorithms and Data Structures, eksamen 2026] (Karakter: Pågående )
 - [PGR107 Python Programming, eksamen 2026] (Karakter: Pågående)
 
+<!--
+**Elias-Zalmai/Elias-Zalmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
