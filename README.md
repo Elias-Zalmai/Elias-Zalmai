@@ -10,13 +10,13 @@ Heisann ☀️
 ## Høyskolen Kristiania - Cybersikkerhet 
 
 #### 1. semester (høsten 2024)
-- [DB1102 Databaser, eksamen 2024](Bestått)
+- [DB1102 Databaser, eksamen 2024] (Bestått)
 - [PRO105 Kreativt webprosjekt, eksamen 2024] (Bestått)
 - [PGR102 Intro til programmering, eksamen 2024] (Bestått)
 - [TK1104 Digital teknologi, eksamen 2024] (Bestått)
 
 #### 2. semester (våren 2025)
-- [PGR112 Objektorientert programmering (OOP), eksamen 2025](Bestått)
+- [PGR112 Objektorientert programmering (OOP), eksamen 2025] (Bestått)
 - [TK2100 Informasjonssikkerhet, eksamen 2025] (Bestått)
 - [ESB1100 Etikk, samfunnsansvar og bærekraft, eksamen 2025] ((Karakter: B))
 
