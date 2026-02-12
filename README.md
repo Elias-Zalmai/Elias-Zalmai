@@ -20,7 +20,7 @@ Jeg studerer Bachelor i Cybersikkerhet (2024–2027) ved Høyskolen Kristiania, 
 #### 2. semester (våren 2025)
 - [PGR112 Objektorientert programmering (OOP), eksamen 2025] (Bestått)
 - [TK2100 Informasjonssikkerhet, eksamen 2025] (Bestått)
-- [ESB1100 Etikk, samfunnsansvar og bærekraft, eksamen 2025] ((Karakter: B))
+- [ESB1100 Etikk, samfunnsansvar og bærekraft, eksamen 2025] (Karakter: B))
 
 #### 3. semester (høsten 2025)
 - [ETH2100 Etisk hacking, eksamen 2025] (Karakter: A)
