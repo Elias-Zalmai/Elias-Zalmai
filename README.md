@@ -24,7 +24,7 @@ Jeg studerer Bachelor i Cybersikkerhet (2024–2027) ved Høyskolen Kristiania, 
 
 #### 3. semester (høsten 2025)
 - [ETH2100 Etisk hacking, eksamen 2025] (Karakter: A)
-- [SKY2100 Skysikkerhet, eksamen 2025] (Karakter: Kommer)
+- [SKY2100 Skysikkerhet, eksamen 2025] (Karakter: A)
 - [CYB2100 Cyberforsvar, eksamen 2025] (Karakter: C)
 
 
