@@ -4,8 +4,7 @@ Heisann ☀️
 Jeg studerer Bachelor i Cybersikkerhet (2024–2027) ved Høyskolen Kristiania, og her dokumenterer jeg progresjonen min gjennom studiet – fra grunnleggende programmering og databaser til etisk hacking, skysikkerhet og cyberforsvar.
 
 -----------
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/marie-stigen/](https://www.linkedin.com/in/eliaszalmai/))
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />] ([https://www.linkedin.com/in/marie-stigen/](https://www.linkedin.com/in/eliaszalmai/))
 [<img src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Elias-Zalmai)
 
 ----- 
