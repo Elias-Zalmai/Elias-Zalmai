@@ -30,9 +30,9 @@ Jeg studerer Bachelor i Cybersikkerhet (2024–2027) ved Høyskolen Kristiania, 
 
 
 #### 4. semester (våren 2026)
-- [BU5300 IT-prosjektledelse, eksamen 2026] (Karakter: Pågående)
+- [BU5300 IT-prosjektledelse, eksamen 2026] (Karakter: B)
 - [PG3401 Programmering i C for Linux, eksamen 2026] (Karakter: Pågående)
-- [PG4200 Algorithms and Data Structures, eksamen 2026] (Karakter: Pågående )
+- [PG4200 Algorithms and Data Structures, eksamen 2026] (Karakter: A )
 - [PGR107 Python Programming, eksamen 2026] (Karakter: Pågående)
 
 <!--
