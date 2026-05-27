@@ -1,3 +1,4 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=Elias-Zalmai)
 ## Elias Zalmai 
 Heisann ☀️ 
 
